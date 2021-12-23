@@ -534,3 +534,4 @@ def some_tests():
 
 if __name__ == '__main__':
     play_gomoku(8)
+
